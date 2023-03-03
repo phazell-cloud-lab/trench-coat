@@ -6,7 +6,7 @@ Initially intened for 'lift n shift' containerisation activities as the compiled
 ## Brainstorms
 - Behavour determined by a yaml file.
 
-[] Simple example - trigger a bash script, return output.
-[] Long running example - what if the programme takes a while?
-[] Stream example - can we stream output back to the client?
-[] Auth methods - eg Bearer tokens, JWT, client certificates ?
+- [ ] Simple example - trigger a bash script, return output.  
+- [ ] Long running example - what if the programme takes a while?  
+- [ ] Stream example - can we stream output back to the client?  
+- [ ] Auth methods - eg Bearer tokens, JWT, client certificates?  
